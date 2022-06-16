@@ -7,6 +7,6 @@
 2) 修改为Remix测试通过
 
 ## 修改
-- 增加了Operator的合约以及其Interface
+- 增加了Operator RewardPoint合约以及其Interface
 - 增加了modifier检查tx.origin
 
